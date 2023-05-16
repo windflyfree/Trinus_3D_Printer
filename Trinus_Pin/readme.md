@@ -1,2 +1,2 @@
 Trinus 1.3 pin
-![image](trinus pinout.png)
+![image](Trinus_Pin/trinus pinout.png)
