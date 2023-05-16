@@ -9,4 +9,4 @@ Quantity	Comment	Designator	Footprint	Value	Manufacturer Part
 2	10kΩ	R2,R3	R0805	10kΩ	0805W8F1002T5E
 1	EL357N(A)	U1	SOP-4_L4.4-W4.0-P2.54-LS7.0-TL		EL357N(A)
 
-![image]([pcb/Hot bed switching plate wiring diagram with optical coupler.png](https://github.com/windflyfree/trinus/blob/main/pcb/Hot%20bed%20switching%20plate%20wiring%20diagram%20with%20optical%20coupler.png))
+![image](https://github.com/windflyfree/trinus/blob/main/pcb/Hot%20bed%20switching%20plate%20wiring%20diagram%20with%20optical%20coupler.png))
