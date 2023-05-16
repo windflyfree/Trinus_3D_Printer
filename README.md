@@ -8,7 +8,7 @@ My friends and I bought a batch of Trinus printers at a second-hand market. They
 
 We designed a dedicated adapter PCB for the hotbed (the original mainboard did not support direct connection to the heated bed and required a MOS module), as well as for laser engraving, CNC, and more. We hope to have the opportunity to explore and discover even more interesting ways to play with these machines. After all, technology knows no borders, and neither does human happiness and joy.
 
-by wowki.com
+                                                                                                               by wowki.com
 
 ![image](PIC/Trinus.jpg)
 
