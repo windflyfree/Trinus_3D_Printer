@@ -16,4 +16,4 @@ Quantity	Comment	Designator	Footprint	Value	Manufacturer Part
 
 1	EL357N(A)	U1	SOP-4_L4.4-W4.0-P2.54-LS7.0-TL		EL357N(A)
 
-![image](https://github.com/windflyfree/trinus/blob/main/pcb/Hot%20bed%20switching%20plate%20wiring%20diagram%20with%20optical%20coupler.png))
+![image](pcb/带光耦热床转接小板接线图.png)
